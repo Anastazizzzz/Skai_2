@@ -5,6 +5,7 @@ import Menu from './components/Menu.vue';
 import RentBlock from './components/RentBlock.vue';
 import SliderCard from './components/SliderCard.vue';
 import SliderBlock from './components/SliderBlock.vue';
+import Blog from './components/Blog.vue';
 </script>
 
 <template>
@@ -15,6 +16,7 @@ import SliderBlock from './components/SliderBlock.vue';
         <RentBlock />
         <SliderCard />
         <SliderBlock/>
+        <Blog />
     </div>
 </template>
 
